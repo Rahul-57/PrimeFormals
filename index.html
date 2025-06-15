@@ -1400,14 +1400,14 @@
             const options = {
                 ...RAZORPAY_CONFIG,
                 amount: orderData.total * 100,
-                order_id: orderId,
+                // order_id: orderId,
                 prefill: {
                     name: `${orderData.firstName} ${orderData.lastName}`,
                     email: orderData.email,
                     contact: orderData.phone
                 },
                 notes: {
-                    order_id: orderId,
+                    // order_id: orderId,
                     customer_name: `${orderData.firstName} ${orderData.lastName}`,
                     items_count: orderData.items.length
                 },
