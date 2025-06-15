@@ -5,7 +5,7 @@
                 price: 850,
                 category: "fabrics",
                 description: "High-quality wool blend perfect for formal suits",
-                // emoji: "🧥"
+                emoji: "https://www.google.com/search?vsrid=CIuchbyDwfeV8QEQAhgBIiQ0ZmI3MjRkNS0xMjQwLTQ3OWItYmY2ZC0wMTYzMDM3ZjU4NGUyBiICdHAoMzis9faF-PCNAw&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEKsCGKgBJQAAgD8&udm=26&lns_mode=un&source=lns.web.gsbubb&vsdim=299,168&gsessionid=m40huLgJ5uJM7DllQmbpUUszGOjE2nJtRytdHIoBbvkbOebZn_YTQw&lsessionid=kdjBvIhUSYc7eFrgXZ2-GQa2JcYgUMdBiQoUyfr3VmBIufBHj5P89A&lns_surface=26&authuser=0&lns_vfs=e&qsubts=1749904980095&biw=1280&bih=551&hl=en-IN"
             },
             {
                 id: 2,
@@ -13,7 +13,7 @@
                 price: 420,
                 category: "fabrics",
                 description: "Breathable cotton fabric for summer formals",
-                // emoji: "👔"
+                emoji: "👔"
             },
             {
                 id: 3,
@@ -21,7 +21,7 @@
                 price: 650,
                 category: "fabrics",
                 description: "Smooth silk lining for premium finish",
-                // emoji: "✨"
+                emoji: "✨"
             },
             {
                 id: 4,
@@ -29,7 +29,7 @@
                 price: 120,
                 category: "buttons",
                 description: "Elegant metal buttons for formal wear",
-                // emoji: "🔘"
+                emoji: "🔘"
             },
             {
                 id: 5,
@@ -37,7 +37,7 @@
                 price: 180,
                 category: "buttons",
                 description: "Natural horn buttons for luxury finish",
-                emoji: "⚫"
+                // emoji: "⚫"
             },
             {
                 id: 6,
