@@ -34,7 +34,7 @@
             {
                 id: 5,
                 name: "Horn Buttons Set",
-                price: 180,
+                price: 10,
                 category: "buttons",
                 description: "Natural horn buttons for luxury finish",
                 // emoji: "⚫"
@@ -42,7 +42,7 @@
             {
                 id: 6,
                 name: "Polyester Thread",
-                price: 45,
+                price: 3,
                 category: "threads",
                 description: "Strong polyester thread for durable stitching",
                 emoji: "🧵"
